@@ -568,7 +568,7 @@ will be Processing of 9 – 10 MILLION tons of hazardous and municipal waste per
           <div className={styles.teamCard}>
             <img src="/wolf.jpeg" alt="team-member" />
             <h4 className={styles.teamName}>Dan Lin Peng Ghee</h4>
-            <p className={styles.teamDes}>]CHIEF FINANCE OFFICER</p>
+            <p className={styles.teamDes}>CHIEF FINANCE OFFICER</p>
           </div>
 
           <div className={styles.teamCard}>
