@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>MARS - Presale Sample</title>
+        <title>MARS COIN</title>
         <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"></link>
         <meta name="description" content="Mars is a decentralized launchpad that
          allows users to launch their token and create their initial 
