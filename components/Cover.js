@@ -829,7 +829,7 @@ const MyComponent = () => {
                 </div>
             </section>
             <div className={styles.contractNoteSection}>
-                <p className={styles.contractNote}>You can buy MASC also by sending BNB directly to Presale Contract</p>
+                <p className={styles.contractNote}>You can buy MRSC also by sending BNB directly to Presale Contract</p>
                 <p id="contract-address" className={styles.contractAddress}>{tokenData.presaleContract}</p><br/>
                 <a className={styles.actionBtnCopy} onClick={copyAddress}>Copy Address</a>
             </div>
