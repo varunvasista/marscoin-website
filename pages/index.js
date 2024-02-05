@@ -12,10 +12,7 @@ export default function Home() {
       <Head>
         <title>MARS COIN</title>
         <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"></link>
-        <meta name="description" content="Mars is a decentralized launchpad that
-         allows users to launch their token and create their initial 
-         token sale with staking benefits to their holders and they don't 
-         require any Coding Knowledge For this." />
+        <meta name="description" content="MARS offers innovative end-to end solutions that work in ASEAN. We solve environmental problems caused by waste, make the transition to clean energy affordable and strive to lead the resource revolution in ASEAN and beyond." />
         <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png" />
