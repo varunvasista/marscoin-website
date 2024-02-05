@@ -674,7 +674,7 @@ will be Processing of 9 – 10 MILLION tons of hazardous and municipal waste per
           <div className={styles.contactSocialBlock}>
             <Link href="mailto:support@mars.com"><a target="_blank" rel="noreferrer"><i className="las la-envelope"></i>support@mars.com</a></Link>
             <Link href="https://t.me/mars"><a target="_blank" rel="noreferrer"><i className="lab la-telegram"></i>Telegram</a></Link>
-            <Link href="https://twitter.com/marsofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>Twitter</a></Link>
+            <Link href="https://twitter.com/marsofficial"><a target="_blank" rel="noreferrer"><i className="lab la-twitter-square"></i>X</a></Link>
             <Link href="https://www.instagram.com/mars_official/"><a target="_blank" rel="noreferrer"><i className="lab la-instagram"></i>Instagram</a></Link>
             <Link href="https://www.youtube.com/channel/UCCP3Ce_X8U-_lkvC9xREGQA"><a target="_blank" rel="noreferrer"><i className="lab la-youtube"></i>YouTube</a></Link>
           </div>
