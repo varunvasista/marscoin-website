@@ -442,6 +442,10 @@ justify-content: space-between;}
     .teamSection{
         width: 100%;
     }
+    
+        .teamSection2{
+        width: 100%;
+    }
 }
 @media(max-width:800px){
     .teamSection{
@@ -455,6 +459,21 @@ justify-content: space-between;}
         margin: 10px;
     }
     .teamCard img{
+        width: 90vw;
+        height: 90vw;
+    }
+    
+        .teamSection2{
+        width: 95%;
+    }
+    .teamBlock2{
+        flex-direction: column;
+    }
+
+    .teamCard2{
+        margin: 10px;
+    }
+    .teamCard2 img{
         width: 90vw;
         height: 90vw;
     }
