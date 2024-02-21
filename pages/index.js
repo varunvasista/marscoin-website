@@ -584,7 +584,7 @@ will be Processing of 9 – 10 MILLION tons of hazardous and municipal waste per
           </div>
           <div className={styles.teamCard}>
             <img src="/leo.jpeg" alt="team-member" />
-            <h4 className={styles.teamName}>Ramita Sen</h4>
+            <h4 className={styles.teamName}>John</h4>
             <p className={styles.teamDes}>CREATIVE MANAGER</p>
           </div>
 
