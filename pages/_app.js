@@ -50,7 +50,7 @@ const connectors = connectorsForWallets([
       uniswapWallet({ projectId, chains }),
       phantomWallet({chains}),
       rabbyWallet({ projectId, chains }),
-      mewWallet({ projectId, chains }),
+      mewWallet({ chains }),
     ],
   },
 ]);
