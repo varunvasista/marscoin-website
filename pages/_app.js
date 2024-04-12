@@ -12,7 +12,9 @@ import {
   trustWallet,
   ledgerWallet,
   uniswapWallet,
-  phantomWallet
+  phantomWallet,
+  rabbyWallet,
+  mewWallet
 } from '@rainbow-me/rainbowkit/wallets';
 import { configureChains, createConfig, WagmiConfig } from 'wagmi';
 import {
@@ -47,6 +49,8 @@ const connectors = connectorsForWallets([
       ledgerWallet({ projectId, chains }),
       uniswapWallet({ projectId, chains }),
       phantomWallet({chains}),
+      rabbyWallet({ projectId, chains }),
+      mewWallet({ projectId, chains }),
     ],
   },
 ]);
